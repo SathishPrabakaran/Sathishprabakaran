@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SATHISH P!
 
-💡 *Data Analyst | Data Science Enthusiast | Machine Learning • Deep Learning • Artificial Intelligence*  
+💡 *Data Science Enthusiast| Data Analyst  | Machine Learning • Deep Learning • Artificial Intelligence*  
 
 ---
 
